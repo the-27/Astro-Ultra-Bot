@@ -37,7 +37,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/the-27/Isagi-Yoichi-Bot && cd Isagi-Yoichi-Bot
+git clone https://github.com/the-27/Astro-Ultra-Bot && cd Astro-Ultra-Bot
 ```
 
 ```bash
@@ -65,7 +65,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Isagi-Yoichi-Bot
+    cd Astro-Ultra-Bot
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -81,7 +81,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 1. Abre Termux y navega al directorio del bot:
 
    ```bash
-    cd Isagi-Yoichi-Bot
+    cd Astro-Ultra-Bot
    ```
 
 2. Elimina la carpeta MiniSession:
@@ -101,7 +101,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Isagi-Yoichi-Bot && nano settings.js
+    cd Astro-Ultra-Bot && nano settings.js
    ```
 
 </details>
